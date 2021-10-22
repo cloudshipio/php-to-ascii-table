@@ -1,5 +1,5 @@
 {
-    "name": "malios/php-to-ascii-table",
+    "name": "cloudshipio/php-to-ascii-table",
     "description": "A PHP library to generate plain text tables.",
     "type": "library",
     "keywords": [
@@ -16,7 +16,7 @@
     ],
     "license": "MIT",
     "require": {
-        "php": "^7",
+        "php": "^7|^8",
         "php-ds/php-ds": "^1.1",
         "ext-mbstring": "*"
     },
